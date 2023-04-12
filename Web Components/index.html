@@ -6,11 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal de Noticias Galativas</title>
     <link rel="stylesheet" href="style.css">
+    <script src="CardNews.js" defer></script>
+    <script src="TituloDinamico.js" defer></script>
 </head>
 <body>
     <div class="container">
         <div class="card">
-            <div class="left">
+            <div class="card__left">
                 <span>By Luisa</span>
                 <a href="">Darth Vader contrata</a>
                 <p>Darth Vader procura desenvolvedores Web</p>
@@ -20,5 +22,17 @@
             </div>
         </div>
     </div>
+    <card-news 
+        autor="Luisa" 
+        title="Darth Vader contrata" 
+        link-url ="google.com" 
+        content="Darth Vader procura desenvolvedores Web" 
+        photo="vader.jpg" desc="Darth Vader">
+    </card-news>
+    <card-news 
+            title="Yoda convence replubica a utilizar components"
+            link-url="www.google.com/yoda"
+            contet="Yoda se pronuncia e choca a republica.">
+    </card-news>
 </body>
 </html>

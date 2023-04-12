@@ -14,22 +14,22 @@
     flex-direction: row;
     justify-content: space-between;
 }
-.left{
+.card__left{
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding-left: 10px;
 }
-.left > a{
+.card__left > a{
     margin-top: 15px;
     font-size: 25px;
     color:rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
 }
-.left > p{
+.card__left > p{
     color: rgb(70, 70, 70);
 }
-.left > span{
+.card__left > span{
     font-weight: 400;
 }
