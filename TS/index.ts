@@ -43,7 +43,6 @@ const bot:robot={
 }
 console.log(bot.id)
 console.log(bot.name = "Robert");
-
 class Robo implements robot{
     id: string | number;
     name: string;
