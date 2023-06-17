@@ -1,0 +1,81 @@
+{
+    "name": "Richard P D Ribeiro",
+    "photo": "https://avatars.githubusercontent.com/u/13837447?v=4",
+    "job": "Força Aérea Brasileira - Ministério da Defesa",
+    "location": "Brasília - DF",
+    "phone": "(61) 99122-5422",
+    "email": "richard.diass@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS3",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "PHP",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/php.png"
+        },        
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/postgresql.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/richardpaim/js-developer-portfolio/main/data/imgs/git.png"
+        }
+      
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/richardpaim/pokedex-developer-JS",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/richardpaim/js-developer-portfolio",
+        "github": true
+      },
+      {
+        "name": "Projeto Panorama - Censipam/MD",
+        "url": "https://panorama.sipam.gov.br/panorama/pages/index.php"
+      },
+      {
+        "name": "Projeto Painel do Fogo - Censipam/MD",
+        "url": "https://panorama.sipam.gov.br/painel-do-fogo/"
+      }
+
+    ],
+    "professionalExperience": [
+      {
+        "name": "Centro Gestor e Operacional do Sistema de Proteção da Amazônia - Ministério da Defesa ",
+        "period": "2020 - atualmente",
+        "description": "Atuo como desenvolvedor Full-Stack"
+      },
+      {
+        "name": "Força Aérea Brasileira",
+        "period": "2013 - 2019",
+        "description": "Atuei na Infraestrutura (linux), serviços de Backups (ShellScripts) e Redes "
+      }
+      
+    ]
+  } 
